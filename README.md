@@ -1,8 +1,8 @@
 
-## About me
+## 🚀 About me
 - 👋 Hi, I’m @mohammadamini1
 - 👀 I am a Computer Engineer with expertise spanning Distributed Systems, Cybersecurity, AI/ML, and Blockchain Security. I enjoy building solutions that combine innovation with technical precision.
-- 🏆 CTF player at Pr1m3d Team
+- 🏆 CTF player at [Pr1m3d](https://github.com/Pr1m3dCTF) Team
 <!-- - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
